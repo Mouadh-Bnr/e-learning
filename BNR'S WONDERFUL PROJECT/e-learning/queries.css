@@ -1,0 +1,256 @@
+@media (max-width: 1600px) {
+  .page1-container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .Group-147 {
+    width: 100%;
+  }
+  .img-man {
+    display: none;
+  }
+  .text-container-control {
+    text-align: center;
+  }
+  .first-link {
+    justify-content: center;
+  }
+  .text-container {
+    width: 100%;
+  }
+  .text-container1 {
+    width: 100%;
+  }
+  .first-link {
+    justify-content: center;
+    width: 100%;
+  }
+  .list-icons {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4rem;
+  }
+  .imgs-container {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5rem;
+  }
+  .P400 {
+    text-align: center;
+  }
+  .P400-text {
+    text-align: center;
+    width: 100%;
+  }
+  .group-147 {
+    width: 100%;
+  }
+  .page3-control {
+    justify-content: center;
+    gap: 3rem;
+  }
+  .text-content {
+    width: 100%;
+  }
+  .icons-template {
+    gap: 2rem;
+    justify-content: center;
+  }
+  .page5-control {
+    text-align: center;
+    justify-content: center;
+    gap: 3rem;
+  }
+  .btn-page5 {
+    padding: 1.25rem 6.12rem 1.25rem 6.12rem;
+  }
+}
+@media (max-width: 1508px) {
+  .text-content1 {
+    text-align: center;
+    width: 100%;
+  }
+  .imgs-container {
+    gap: 3rem;
+  }
+  .page3-control {
+    gap: 0rem;
+  }
+  .Group114 {
+    display: none;
+  }
+  .icons-template {
+    text-align: center;
+  }
+  .icon-tv-text2,
+  .icon-star-text2,
+  .icon-note-text2,
+  .icon-book-text2 {
+    line-height: 2;
+  }
+  .imgs-container-page4 {
+    justify-content: center;
+    gap: 2rem;
+  }
+  .page4-control {
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+  }
+  .text-content2 {
+    width: 100%;
+  }
+  .btn-page4 {
+    padding: 1.19rem 4.38rem 1.19rem 4.38rem;
+  }
+  .the-big-container-page6 {
+    justify-content: center;
+    text-align: center;
+    gap: 3rem;
+  }
+  .text2-content-page6 {
+    width: 100%;
+  }
+  .text3-content-page6 {
+    width: 100%;
+  }
+  .text4-content-page6 {
+    width: 100%;
+  }
+  .avatar-man {
+    justify-content: center;
+  }
+  .avatar-women {
+    justify-content: center;
+  }
+  .text1-content-page6 {
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+  }
+  .svg {
+    display: none;
+  }
+  .cards {
+    gap: 3rem;
+    justify-content: center;
+  }
+  .page7-control {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    flex-direction: column;
+    margin: 0rem 0rem 5rem 0rem;
+  }
+  .text1-content-page7 {
+    width: 100%;
+  }
+  .btn-page7 {
+    padding: 1.19rem 5.5rem 1.19rem 5.5rem;
+  }
+  .footer-element {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    gap: 5rem;
+  }
+  .logo-text {
+    width: 100%;
+  }
+  .space-title {
+    align-items: normal;
+  }
+  .footer-element {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 2rem;
+  }
+  .copy-rights {
+    text-align: center;
+    width: 100%;
+  }
+  .nav {
+    flex-direction: column;
+    gap: 3rem;
+  }
+  .btn-nav {
+    padding: 1rem 7.25rem 1rem 7.25rem;
+  }
+  .nav-list {
+    display: none;
+  }
+  .text1-content-page5 {
+    width: 100%;
+  }
+  .text2-content-page5 {
+    width: 100%;
+  }
+}
+@media (max-width: 1000px) {
+  .text-container,
+  .text-content1,
+  .P400,
+  .text-content2,
+  .text1-content-page5,
+  .text1-content-page6,
+  .text1-content-page7 {
+    font-size: 1.75rem;
+  }
+}
+@media (max-width: 700px) {
+  .container {
+    margin: 2rem 0rem 2.38rem 0rem;
+  }
+  .btn-page5 {
+    padding: 1.25rem 3.12rem 1.25rem 3.12rem;
+  }
+  .page7-container,
+  .page5-container,
+  .page4-container,
+  .page3-container,
+  .page1-container {
+    margin: 2rem 0rem 0rem 0rem;
+  }
+
+  .avatar-man {
+    display: flex none;
+  }
+  .page3-control {
+    gap: 0rem;
+  }
+  .page6-container {
+    margin: 2rem 0rem 0rem 0rem;
+  }
+  .text-container,
+  .text-content1,
+  .P400,
+  .text-content2,
+  .text1-content-page5,
+  .text1-content-page6,
+  .text1-content-page7 {
+    font-size: 1.125rem;
+  }
+  .text-container1 {
+    font-size: 0.8rem;
+  }
+}
+@media (max-width: 320px) {
+  .cards {
+    display: none;
+  }
+  .btn {
+    font-size: 1rem;
+    padding: 1rem 3.12rem 1rem 3.12rem;
+  }
+  .btn-page7 {
+    padding: 1.19rem 3.5rem 1.19rem 3.5rem;
+  }
+  .btn-nav {
+    padding: 1rem 5.25rem 1rem 5.25rem;
+  }
+  .btn-page4 {
+    padding: 1.19rem 2.38rem 1.19rem 2.38rem;
+  }
+}
