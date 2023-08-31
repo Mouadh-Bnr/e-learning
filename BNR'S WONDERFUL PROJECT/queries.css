@@ -213,6 +213,15 @@
   .page1-container {
     margin: 2rem 0rem 0rem 0rem;
   }
+  .blue-card:hover{
+    transform: none;
+  }
+  .orange-card:hover{
+    transform: none;
+  }
+  .yellow-card:hover{
+    transform: none;
+  }
 
   .avatar-man {
     display: flex none;
@@ -253,4 +262,5 @@
   .btn-page4 {
     padding: 1.19rem 2.38rem 1.19rem 2.38rem;
   }
+ 
 }
